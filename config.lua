@@ -1,9 +1,9 @@
 Config = {}
 
 -- settings
-Config.MinimumLawmen = 4 -- amount of lawman needed for heist
-Config.BankLockdown = 100 -- amount of seconds until bank lockdown (300 = 5 mins)
-Config.BankCooldown = 14400 -- amount of time in seconds until bank can be robbed again (3600 = 1hr)
+Config.MinimumLawmen = 3 -- amount of lawman needed for heist
+Config.BankLockdown = 300 -- amount of seconds until bank lockdown (300 = 5 mins)
+Config.BankCooldown = 28800 -- amount of time in seconds until bank can be robbed again (3600 = 1hr)
 
 -- lock bank doors
 Config.VaultDoors = {
